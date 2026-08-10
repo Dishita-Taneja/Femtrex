@@ -20,7 +20,7 @@ An AI-powered Founder Operating System that helps first-time women entrepreneurs
 
 > ## ⚠️ Prototype Status
 >
-> This repository contains the **Stage 2 prototype** of **Femtrex** developed for **Girls Hack Day Delhi 2026**.
+> This repository contains the **Stage 1 prototype** of **Femtrex** developed for **Girls Hack Day Delhi 2026**.
 >
 > The current version showcases the complete product vision, UI foundation, application architecture, and core feature workflows. AI integrations, backend services, and production-ready implementations are actively under development.
 
